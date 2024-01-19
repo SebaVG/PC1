@@ -1,0 +1,13 @@
+button{
+    height: 20px;
+    width: 40px;
+    margin: 10px;
+}
+
+.d1{
+    float:left;
+}
+
+.d2{
+    float: right;
+}
